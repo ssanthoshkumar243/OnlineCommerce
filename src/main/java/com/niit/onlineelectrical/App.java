@@ -1,7 +1,7 @@
 package com.niit.onlineelectrical;
 
 /**
- * Hello world!
+ * 
  *
  */
 public class App 
